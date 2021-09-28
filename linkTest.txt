@@ -1,0 +1,11 @@
+append middleScene1, 56
+prepend startScene, 34
+append middleScene5, 89
+prepend middleScene3, 76
+remove 33
+append middleScene2, 65
+remove 56
+append endScene, 90
+prepend middleScene4, 78
+remove 56
+display
